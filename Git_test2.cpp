@@ -7,7 +7,7 @@ int main()
 {
     std::cout << "Hello visualstudio Git!\n";
 
-    std::cout << "Hello New branch!\n";
+    std::cout << "PullRequest branch Changed\n";
 }
 
 
