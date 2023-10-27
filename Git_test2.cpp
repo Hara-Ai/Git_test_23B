@@ -9,7 +9,7 @@ int main()
 
     std::cout << "Hello New branch!\n";
 
-    std::cout << "Hello third branch\n";
+    std::cout << "third branch\n";
 }
 
 
